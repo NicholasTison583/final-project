@@ -1,0 +1,110 @@
+{
+  "status": 1,
+  "data": {
+    "micrograms per cubic meter": {
+      "1995": {
+        "year": 1995,
+        "country_name": "Afghanistan",
+        "value": "45.51",
+        "lower": "45.51",
+        "upper": "45.51"
+      },
+      "2011": {
+        "year": 2011,
+        "country_name": "Afghanistan",
+        "value": "54.57",
+        "lower": "54.57",
+        "upper": "54.57"
+      },
+      "1990": {
+        "year": 1990,
+        "country_name": "Afghanistan",
+        "value": "46.18",
+        "lower": "46.18",
+        "upper": "46.18"
+      },
+      "2005": {
+        "year": 2005,
+        "country_name": "Afghanistan",
+        "value": "44.51",
+        "lower": "44.51",
+        "upper": "44.51"
+      },
+      "2012": {
+        "year": 2012,
+        "country_name": "Afghanistan",
+        "value": "53.45",
+        "lower": "53.45",
+        "upper": "53.45"
+      },
+      "2000": {
+        "year": 2000,
+        "country_name": "Afghanistan",
+        "value": "48.85",
+        "lower": "48.85",
+        "upper": "48.85"
+      },
+      "2010": {
+        "year": 2010,
+        "country_name": "Afghanistan",
+        "value": "50.59",
+        "lower": "50.59",
+        "upper": "50.59"
+      },
+      "2013": {
+        "year": 2013,
+        "country_name": "Afghanistan",
+        "value": "57.27",
+        "lower": "57.27",
+        "upper": "57.27"
+      },
+      "2019": {
+        "year": 2019,
+        "country_name": "Afghanistan",
+        "value": "50.88",
+        "lower": "50.88",
+        "upper": "50.88"
+      },
+      "2016": {
+        "year": 2016,
+        "country_name": "Afghanistan",
+        "value": "55.76",
+        "lower": "55.76",
+        "upper": "55.76"
+      },
+      "2017": {
+        "year": 2017,
+        "country_name": "Afghanistan",
+        "value": "51.76",
+        "lower": "51.76",
+        "upper": "51.76"
+      },
+      "2018": {
+        "year": 2018,
+        "country_name": "Afghanistan",
+        "value": "51.21",
+        "lower": "51.21",
+        "upper": "51.21"
+      },
+      "2015": {
+        "year": 2015,
+        "country_name": "Afghanistan",
+        "value": "59.20",
+        "lower": "59.20",
+        "upper": "59.20"
+      },
+      "2014": {
+        "year": 2014,
+        "country_name": "Afghanistan",
+        "value": "60.21",
+        "lower": "60.21",
+        "upper": "60.21"
+      }
+    }
+  },
+  "filters": {
+    "risk": "Ambient particulate matter pollution",
+    "sex": "Both",
+    "country_name": "Afghanistan"
+  }
+}

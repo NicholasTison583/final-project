@@ -1,0 +1,802 @@
+{
+  "status": 1,
+  "data": {
+    "Number": {
+      "1990": {
+        "year": 1990,
+        "value": "13,137,972.86",
+        "lower": "12,200,650.85",
+        "upper": "14,040,035.75",
+        "country_name": "Global"
+      },
+      "1991": {
+        "year": 1991,
+        "value": "13,327,579.24",
+        "lower": "12,320,588.53",
+        "upper": "14,188,148.18",
+        "country_name": "Global"
+      },
+      "1992": {
+        "year": 1992,
+        "value": "13,474,051.11",
+        "lower": "12,493,836.19",
+        "upper": "14,330,818.67",
+        "country_name": "Global"
+      },
+      "1993": {
+        "year": 1993,
+        "value": "13,846,499.01",
+        "lower": "12,875,701.06",
+        "upper": "14,709,140.03",
+        "country_name": "Global"
+      },
+      "1994": {
+        "year": 1994,
+        "value": "13,977,330.54",
+        "lower": "12,968,478.17",
+        "upper": "14,837,915.25",
+        "country_name": "Global"
+      },
+      "1995": {
+        "year": 1995,
+        "value": "14,031,974.76",
+        "lower": "13,062,490.53",
+        "upper": "14,843,882.55",
+        "country_name": "Global"
+      },
+      "1996": {
+        "year": 1996,
+        "value": "14,094,236.61",
+        "lower": "13,105,570.37",
+        "upper": "14,841,671.49",
+        "country_name": "Global"
+      },
+      "1997": {
+        "year": 1997,
+        "value": "14,167,875.16",
+        "lower": "13,174,992.91",
+        "upper": "14,916,589.92",
+        "country_name": "Global"
+      },
+      "1998": {
+        "year": 1998,
+        "value": "14,299,004.61",
+        "lower": "13,314,321.13",
+        "upper": "15,087,655.36",
+        "country_name": "Global"
+      },
+      "1999": {
+        "year": 1999,
+        "value": "14,504,612.32",
+        "lower": "13,612,734.86",
+        "upper": "15,311,816.62",
+        "country_name": "Global"
+      },
+      "2000": {
+        "year": 2000,
+        "value": "14,562,574.05",
+        "lower": "13,675,237.42",
+        "upper": "15,351,897.18",
+        "country_name": "Global"
+      },
+      "2001": {
+        "year": 2001,
+        "value": "14,642,887.10",
+        "lower": "13,753,441.41",
+        "upper": "15,411,711.45",
+        "country_name": "Global"
+      },
+      "2002": {
+        "year": 2002,
+        "value": "14,814,547.04",
+        "lower": "13,900,736.21",
+        "upper": "15,564,776.94",
+        "country_name": "Global"
+      },
+      "2003": {
+        "year": 2003,
+        "value": "14,933,735.07",
+        "lower": "14,021,523.60",
+        "upper": "15,723,614.72",
+        "country_name": "Global"
+      },
+      "2004": {
+        "year": 2004,
+        "value": "14,766,208.45",
+        "lower": "13,897,103.75",
+        "upper": "15,547,847.72",
+        "country_name": "Global"
+      },
+      "2005": {
+        "year": 2005,
+        "value": "14,890,602.57",
+        "lower": "13,913,577.61",
+        "upper": "15,623,674.10",
+        "country_name": "Global"
+      },
+      "2006": {
+        "year": 2006,
+        "value": "14,997,268.08",
+        "lower": "13,982,726.29",
+        "upper": "15,692,314.37",
+        "country_name": "Global"
+      },
+      "2007": {
+        "year": 2007,
+        "value": "15,199,501.03",
+        "lower": "14,191,529.37",
+        "upper": "15,923,874.65",
+        "country_name": "Global"
+      },
+      "2008": {
+        "year": 2008,
+        "value": "15,390,506.39",
+        "lower": "14,368,157.61",
+        "upper": "16,125,593.65",
+        "country_name": "Global"
+      },
+      "2009": {
+        "year": 2009,
+        "value": "15,459,586.04",
+        "lower": "14,472,720.97",
+        "upper": "16,183,948.71",
+        "country_name": "Global"
+      },
+      "2010": {
+        "year": 2010,
+        "value": "15,688,397.45",
+        "lower": "14,692,430.62",
+        "upper": "16,518,508.18",
+        "country_name": "Global"
+      },
+      "2011": {
+        "year": 2011,
+        "value": "15,883,663.10",
+        "lower": "14,829,656.70",
+        "upper": "16,686,530.13",
+        "country_name": "Global"
+      },
+      "2012": {
+        "year": 2012,
+        "value": "16,207,852.91",
+        "lower": "15,206,698.99",
+        "upper": "16,990,149.35",
+        "country_name": "Global"
+      },
+      "2013": {
+        "year": 2013,
+        "value": "16,479,219.02",
+        "lower": "15,369,407.21",
+        "upper": "17,325,036.63",
+        "country_name": "Global"
+      },
+      "2014": {
+        "year": 2014,
+        "value": "16,685,005.12",
+        "lower": "15,525,435.92",
+        "upper": "17,578,840.59",
+        "country_name": "Global"
+      },
+      "2015": {
+        "year": 2015,
+        "value": "17,208,338.61",
+        "lower": "16,001,312.17",
+        "upper": "18,112,517.66",
+        "country_name": "Global"
+      },
+      "2016": {
+        "year": 2016,
+        "value": "17,668,632.72",
+        "lower": "16,356,484.36",
+        "upper": "18,602,747.18",
+        "country_name": "Global"
+      },
+      "2017": {
+        "year": 2017,
+        "value": "18,005,142.59",
+        "lower": "16,619,222.29",
+        "upper": "18,965,591.17",
+        "country_name": "Global"
+      },
+      "2018": {
+        "year": 2018,
+        "value": "17,988,597.43",
+        "lower": "16,539,742.56",
+        "upper": "19,054,236.19",
+        "country_name": "Global"
+      },
+      "2019": {
+        "year": 2019,
+        "value": "17,642,047.73",
+        "lower": "16,171,706.85",
+        "upper": "18,670,826.24",
+        "country_name": "Global"
+      },
+      "2020": {
+        "year": 2020,
+        "value": "17,658,552.69",
+        "lower": "16,115,228.60",
+        "upper": "18,749,851.40",
+        "country_name": "Global"
+      },
+      "2023": {
+        "year": 2023,
+        "value": "19,159,153.54",
+        "lower": "17,364,264.51",
+        "upper": "20,420,704.34",
+        "country_name": "Global"
+      },
+      "2024": {
+        "year": 2024,
+        "value": "19,498,874.69",
+        "lower": "17,674,434.76",
+        "upper": "20,840,719.24",
+        "country_name": "Global"
+      },
+      "2022": {
+        "year": 2022,
+        "value": "18,943,537.71",
+        "lower": "17,268,143.70",
+        "upper": "20,060,807.14",
+        "country_name": "Global"
+      },
+      "2021": {
+        "year": 2021,
+        "value": "18,685,866.25",
+        "lower": "17,161,941.21",
+        "upper": "19,827,598.37",
+        "country_name": "Global"
+      }
+    },
+    "Rate (per 100,000)": {
+      "1990": {
+        "year": 1990,
+        "value": "246.21",
+        "lower": "228.64",
+        "upper": "263.11",
+        "country_name": "Global"
+      },
+      "1991": {
+        "year": 1991,
+        "value": "245.94",
+        "lower": "227.35",
+        "upper": "261.82",
+        "country_name": "Global"
+      },
+      "1992": {
+        "year": 1992,
+        "value": "244.98",
+        "lower": "227.16",
+        "upper": "260.56",
+        "country_name": "Global"
+      },
+      "1993": {
+        "year": 1993,
+        "value": "248.14",
+        "lower": "230.74",
+        "upper": "263.60",
+        "country_name": "Global"
+      },
+      "1994": {
+        "year": 1994,
+        "value": "247.06",
+        "lower": "229.23",
+        "upper": "262.28",
+        "country_name": "Global"
+      },
+      "1995": {
+        "year": 1995,
+        "value": "244.79",
+        "lower": "227.88",
+        "upper": "258.95",
+        "country_name": "Global"
+      },
+      "1996": {
+        "year": 1996,
+        "value": "242.71",
+        "lower": "225.69",
+        "upper": "255.58",
+        "country_name": "Global"
+      },
+      "1997": {
+        "year": 1997,
+        "value": "240.86",
+        "lower": "223.98",
+        "upper": "253.59",
+        "country_name": "Global"
+      },
+      "1998": {
+        "year": 1998,
+        "value": "240.03",
+        "lower": "223.50",
+        "upper": "253.27",
+        "country_name": "Global"
+      },
+      "1999": {
+        "year": 1999,
+        "value": "240.45",
+        "lower": "225.66",
+        "upper": "253.83",
+        "country_name": "Global"
+      },
+      "2000": {
+        "year": 2000,
+        "value": "238.41",
+        "lower": "223.88",
+        "upper": "251.33",
+        "country_name": "Global"
+      },
+      "2001": {
+        "year": 2001,
+        "value": "236.72",
+        "lower": "222.34",
+        "upper": "249.14",
+        "country_name": "Global"
+      },
+      "2002": {
+        "year": 2002,
+        "value": "236.47",
+        "lower": "221.89",
+        "upper": "248.45",
+        "country_name": "Global"
+      },
+      "2003": {
+        "year": 2003,
+        "value": "235.34",
+        "lower": "220.97",
+        "upper": "247.79",
+        "country_name": "Global"
+      },
+      "2004": {
+        "year": 2004,
+        "value": "229.73",
+        "lower": "216.21",
+        "upper": "241.89",
+        "country_name": "Global"
+      },
+      "2005": {
+        "year": 2005,
+        "value": "228.65",
+        "lower": "213.65",
+        "upper": "239.91",
+        "country_name": "Global"
+      },
+      "2006": {
+        "year": 2006,
+        "value": "227.28",
+        "lower": "211.91",
+        "upper": "237.82",
+        "country_name": "Global"
+      },
+      "2007": {
+        "year": 2007,
+        "value": "227.29",
+        "lower": "212.21",
+        "upper": "238.12",
+        "country_name": "Global"
+      },
+      "2008": {
+        "year": 2008,
+        "value": "227.08",
+        "lower": "211.99",
+        "upper": "237.92",
+        "country_name": "Global"
+      },
+      "2009": {
+        "year": 2009,
+        "value": "225.00",
+        "lower": "210.64",
+        "upper": "235.54",
+        "country_name": "Global"
+      },
+      "2010": {
+        "year": 2010,
+        "value": "225.30",
+        "lower": "211.00",
+        "upper": "237.23",
+        "country_name": "Global"
+      },
+      "2011": {
+        "year": 2011,
+        "value": "225.26",
+        "lower": "210.32",
+        "upper": "236.65",
+        "country_name": "Global"
+      },
+      "2012": {
+        "year": 2012,
+        "value": "227.01",
+        "lower": "212.99",
+        "upper": "237.97",
+        "country_name": "Global"
+      },
+      "2013": {
+        "year": 2013,
+        "value": "227.92",
+        "lower": "212.57",
+        "upper": "239.61",
+        "country_name": "Global"
+      },
+      "2014": {
+        "year": 2014,
+        "value": "227.89",
+        "lower": "212.05",
+        "upper": "240.10",
+        "country_name": "Global"
+      },
+      "2015": {
+        "year": 2015,
+        "value": "232.12",
+        "lower": "215.84",
+        "upper": "244.32",
+        "country_name": "Global"
+      },
+      "2016": {
+        "year": 2016,
+        "value": "235.45",
+        "lower": "217.96",
+        "upper": "247.89",
+        "country_name": "Global"
+      },
+      "2017": {
+        "year": 2017,
+        "value": "237.07",
+        "lower": "218.82",
+        "upper": "249.71",
+        "country_name": "Global"
+      },
+      "2018": {
+        "year": 2018,
+        "value": "234.13",
+        "lower": "215.27",
+        "upper": "248.00",
+        "country_name": "Global"
+      },
+      "2019": {
+        "year": 2019,
+        "value": "227.08",
+        "lower": "208.15",
+        "upper": "240.32",
+        "country_name": "Global"
+      },
+      "2020": {
+        "year": 2020,
+        "value": "224.95",
+        "lower": "205.29",
+        "upper": "238.86",
+        "country_name": "Global"
+      },
+      "2023": {
+        "year": 2023,
+        "value": "237.53",
+        "lower": "215.28",
+        "upper": "253.18",
+        "country_name": "Global"
+      },
+      "2024": {
+        "year": 2024,
+        "value": "239.65",
+        "lower": "217.22",
+        "upper": "256.14",
+        "country_name": "Global"
+      },
+      "2022": {
+        "year": 2022,
+        "value": "236.95",
+        "lower": "215.99",
+        "upper": "250.92",
+        "country_name": "Global"
+      },
+      "2021": {
+        "year": 2021,
+        "value": "235.85",
+        "lower": "216.62",
+        "upper": "250.26",
+        "country_name": "Global"
+      }
+    },
+    "Percent": {
+      "1990": {
+        "year": 1990,
+        "value": "0.27",
+        "lower": "0.26",
+        "upper": "0.28",
+        "country_name": "Global"
+      },
+      "1991": {
+        "year": 1991,
+        "value": "0.27",
+        "lower": "0.26",
+        "upper": "0.28",
+        "country_name": "Global"
+      },
+      "1992": {
+        "year": 1992,
+        "value": "0.27",
+        "lower": "0.26",
+        "upper": "0.28",
+        "country_name": "Global"
+      },
+      "1993": {
+        "year": 1993,
+        "value": "0.28",
+        "lower": "0.26",
+        "upper": "0.28",
+        "country_name": "Global"
+      },
+      "1994": {
+        "year": 1994,
+        "value": "0.28",
+        "lower": "0.26",
+        "upper": "0.28",
+        "country_name": "Global"
+      },
+      "1995": {
+        "year": 1995,
+        "value": "0.28",
+        "lower": "0.27",
+        "upper": "0.29",
+        "country_name": "Global"
+      },
+      "1996": {
+        "year": 1996,
+        "value": "0.28",
+        "lower": "0.27",
+        "upper": "0.29",
+        "country_name": "Global"
+      },
+      "1997": {
+        "year": 1997,
+        "value": "0.28",
+        "lower": "0.27",
+        "upper": "0.29",
+        "country_name": "Global"
+      },
+      "1998": {
+        "year": 1998,
+        "value": "0.28",
+        "lower": "0.27",
+        "upper": "0.29",
+        "country_name": "Global"
+      },
+      "1999": {
+        "year": 1999,
+        "value": "0.28",
+        "lower": "0.27",
+        "upper": "0.29",
+        "country_name": "Global"
+      },
+      "2000": {
+        "year": 2000,
+        "value": "0.29",
+        "lower": "0.27",
+        "upper": "0.30",
+        "country_name": "Global"
+      },
+      "2001": {
+        "year": 2001,
+        "value": "0.29",
+        "lower": "0.27",
+        "upper": "0.30",
+        "country_name": "Global"
+      },
+      "2002": {
+        "year": 2002,
+        "value": "0.29",
+        "lower": "0.28",
+        "upper": "0.30",
+        "country_name": "Global"
+      },
+      "2003": {
+        "year": 2003,
+        "value": "0.29",
+        "lower": "0.28",
+        "upper": "0.30",
+        "country_name": "Global"
+      },
+      "2004": {
+        "year": 2004,
+        "value": "0.29",
+        "lower": "0.28",
+        "upper": "0.30",
+        "country_name": "Global"
+      },
+      "2005": {
+        "year": 2005,
+        "value": "0.30",
+        "lower": "0.28",
+        "upper": "0.31",
+        "country_name": "Global"
+      },
+      "2006": {
+        "year": 2006,
+        "value": "0.30",
+        "lower": "0.28",
+        "upper": "0.31",
+        "country_name": "Global"
+      },
+      "2007": {
+        "year": 2007,
+        "value": "0.30",
+        "lower": "0.28",
+        "upper": "0.31",
+        "country_name": "Global"
+      },
+      "2008": {
+        "year": 2008,
+        "value": "0.30",
+        "lower": "0.28",
+        "upper": "0.31",
+        "country_name": "Global"
+      },
+      "2009": {
+        "year": 2009,
+        "value": "0.31",
+        "lower": "0.29",
+        "upper": "0.32",
+        "country_name": "Global"
+      },
+      "2010": {
+        "year": 2010,
+        "value": "0.31",
+        "lower": "0.29",
+        "upper": "0.32",
+        "country_name": "Global"
+      },
+      "2011": {
+        "year": 2011,
+        "value": "0.31",
+        "lower": "0.29",
+        "upper": "0.32",
+        "country_name": "Global"
+      },
+      "2012": {
+        "year": 2012,
+        "value": "0.31",
+        "lower": "0.29",
+        "upper": "0.33",
+        "country_name": "Global"
+      },
+      "2013": {
+        "year": 2013,
+        "value": "0.32",
+        "lower": "0.30",
+        "upper": "0.33",
+        "country_name": "Global"
+      },
+      "2014": {
+        "year": 2014,
+        "value": "0.32",
+        "lower": "0.30",
+        "upper": "0.33",
+        "country_name": "Global"
+      },
+      "2015": {
+        "year": 2015,
+        "value": "0.32",
+        "lower": "0.30",
+        "upper": "0.33",
+        "country_name": "Global"
+      },
+      "2016": {
+        "year": 2016,
+        "value": "0.32",
+        "lower": "0.30",
+        "upper": "0.34",
+        "country_name": "Global"
+      },
+      "2017": {
+        "year": 2017,
+        "value": "0.33",
+        "lower": "0.30",
+        "upper": "0.34",
+        "country_name": "Global"
+      },
+      "2018": {
+        "year": 2018,
+        "value": "0.33",
+        "lower": "0.31",
+        "upper": "0.34",
+        "country_name": "Global"
+      },
+      "2019": {
+        "year": 2019,
+        "value": "0.33",
+        "lower": "0.31",
+        "upper": "0.35",
+        "country_name": "Global"
+      },
+      "1989": {
+        "year": 1989,
+        "value": "0.27",
+        "lower": "0.26",
+        "upper": "0.27",
+        "country_name": "Global"
+      },
+      "1984": {
+        "year": 1984,
+        "value": "0.26",
+        "lower": "0.25",
+        "upper": "0.27",
+        "country_name": "Global"
+      },
+      "1982": {
+        "year": 1982,
+        "value": "0.25",
+        "lower": "0.24",
+        "upper": "0.26",
+        "country_name": "Global"
+      },
+      "1980": {
+        "year": 1980,
+        "value": "0.25",
+        "lower": "0.24",
+        "upper": "0.26",
+        "country_name": "Global"
+      },
+      "1981": {
+        "year": 1981,
+        "value": "0.25",
+        "lower": "0.24",
+        "upper": "0.26",
+        "country_name": "Global"
+      },
+      "1987": {
+        "year": 1987,
+        "value": "0.26",
+        "lower": "0.25",
+        "upper": "0.27",
+        "country_name": "Global"
+      },
+      "1986": {
+        "year": 1986,
+        "value": "0.26",
+        "lower": "0.25",
+        "upper": "0.27",
+        "country_name": "Global"
+      },
+      "1983": {
+        "year": 1983,
+        "value": "0.25",
+        "lower": "0.24",
+        "upper": "0.26",
+        "country_name": "Global"
+      },
+      "1985": {
+        "year": 1985,
+        "value": "0.26",
+        "lower": "0.25",
+        "upper": "0.27",
+        "country_name": "Global"
+      },
+      "1988": {
+        "year": 1988,
+        "value": "0.26",
+        "lower": "0.25",
+        "upper": "0.27",
+        "country_name": "Global"
+      },
+      "2020": {
+        "year": 2020,
+        "value": "0.30",
+        "lower": "0.28",
+        "upper": "0.32",
+        "country_name": "Global"
+      },
+      "2021": {
+        "year": 2021,
+        "value": "0.29",
+        "lower": "0.26",
+        "upper": "0.30",
+        "country_name": "Global"
+      }
+    }
+  },
+  "filters": {
+    "age": "All ages",
+    "condition": "Cardiovascular diseases",
+    "measure": "Deaths",
+    "sex": "Both",
+    "country_name": "Global"
+  }
+}

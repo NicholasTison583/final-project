@@ -1,0 +1,20 @@
+---
+title: "About"
+author: "Nicholas Tison"
+---
+
+## Project Overview
+
+This website presents a college data analysis project focused on cardiovascular disease predictors. The objective is to investigate which health and lifestyle factors most strongly relate to cardiovascular disease risk and to communicate the results in a professional, accessible format.
+
+## Purpose
+
+The project was designed to apply data analysis techniques to a public health topic of importance. It emphasizes practical interpretation, clear visualization, and a structured narrative that reflects sound research methodology.
+
+## Approach
+
+The analysis combines exploratory data review with risk interpretation. Variables are examined in context, allowing the project to highlight meaningful relationships while keeping the presentation concise and professional for an academic audience.
+
+## Author
+
+Nicholas Tison

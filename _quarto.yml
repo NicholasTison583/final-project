@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "CVD Predictors"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    page-layout: full
+
+
+

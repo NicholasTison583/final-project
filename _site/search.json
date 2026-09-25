@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website presents a college data analysis project focused on cardiovascular disease predictors. The objective is to investigate which health and lifestyle factors most strongly relate to cardiovascular disease risk and to communicate the results in a professional, accessible format."
+  },
+  {
+    "objectID": "about.html#project-overview",
+    "href": "about.html#project-overview",
+    "title": "About",
+    "section": "",
+    "text": "This website presents a college data analysis project focused on cardiovascular disease predictors. The objective is to investigate which health and lifestyle factors most strongly relate to cardiovascular disease risk and to communicate the results in a professional, accessible format."
+  },
+  {
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About",
+    "section": "Purpose",
+    "text": "Purpose\nThe project was designed to apply data analysis techniques to a public health topic of importance. It emphasizes practical interpretation, clear visualization, and a structured narrative that reflects sound research methodology."
+  },
+  {
+    "objectID": "about.html#approach",
+    "href": "about.html#approach",
+    "title": "About",
+    "section": "Approach",
+    "text": "Approach\nThe analysis combines exploratory data review with risk interpretation. Variables are examined in context, allowing the project to highlight meaningful relationships while keeping the presentation concise and professional for an academic audience."
+  },
+  {
+    "objectID": "about.html#author",
+    "href": "about.html#author",
+    "title": "About",
+    "section": "Author",
+    "text": "Author\nNicholas Tison"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CVD Predictors",
+    "section": "",
+    "text": "Data Analysis Project\n\n\n\nThis project evaluates how health factors such as age, blood pressure, cholesterol, and lifestyle behaviors relate to cardiovascular disease risk. The analysis is designed to support informed, evidence-based interpretation of patient risk and public health trends.\n\n\n&lt;a href=\"#objective\" class=\"button primary\"&gt;Explore the project&lt;/a&gt;\n&lt;a href=\"about.qmd\" class=\"button secondary\"&gt;About the study&lt;/a&gt;"
+  },
+  {
+    "objectID": "index.html#objective",
+    "href": "index.html#objective",
+    "title": "CVD Predictors",
+    "section": "Objective",
+    "text": "Objective\nThe goal of this analysis is to identify the strongest predictors of cardiovascular disease and to summarize the relationship between key health indicators and disease outcomes. By examining both risk factors and demographic trends, this project provides a clear, professional overview of cardiovascular risk assessment.\n\n\n&lt;div&gt;\n  &lt;p class=\"map-kicker\"&gt;Global burden of disease&lt;/p&gt;\n  &lt;h3&gt;Age-standardized cardiovascular disease mortality&lt;/h3&gt;\n&lt;/div&gt;\n&lt;span class=\"map-source\"&gt;Source: World Heart Observatory&lt;/span&gt;"
+  },
+  {
+    "objectID": "index.html#risk-factors-and-modifiable-behaviors",
+    "href": "index.html#risk-factors-and-modifiable-behaviors",
+    "title": "CVD Predictors",
+    "section": "Risk Factors and Modifiable Behaviors",
+    "text": "Risk Factors and Modifiable Behaviors\nThe World Heart Observatory identifies several major contributors to cardiovascular risk. These factors are especially important because many are modifiable through prevention, public health policy, and lifestyle change.\n\n\n\n\n\n\n\n\nRisk factor\nWhy it matters\nPrevention focus\n\n\n\n\nSmoking\nIncreases vascular damage, blood pressure, and clotting risk.\nTobacco cessation and public health policy\n\n\nDiet quality\nHigh sodium and poor diet patterns contribute to hypertension and systemic inflammation.\nReduced sodium intake and healthier eating patterns\n\n\nAir pollution\nExposure is linked with blood vessel injury and elevated cardiovascular burden.\nCleaner air policies and reduced pollution exposure\n\n\nHypertension\nIt is a leading modifiable driver of heart attack, stroke, and cardiac strain.\nBlood-pressure screening and treatment\n\n\nObesity and inactivity\nThese behaviors worsen metabolic health and increase long-term CVD risk.\nActivity promotion, nutrition, and weight management\n\n\n\n\nGlobal CVD burden summary\n\n\n\n\n\n\n\n\n\nMeasure\n1990\n2024\nInterpretation\n\n\n\n\nGlobal CVD deaths\n13,137,972.86\n19,498,874.69\nThe global burden remains high and continues to rise in absolute terms.\n\n\nGlobal CVD death rate (per 100,000)\n246.21\nNot shown in this dataset\nRates are an important way to compare burden across populations.\n\n\n\nThe underlying source data used for this project is saved locally and can be reviewed here:\n\ndata/cvd_global_trends.json\ndata/cvd_risk_factors.json"
+  },
+  {
+    "objectID": "index.html#research-questions",
+    "href": "index.html#research-questions",
+    "title": "CVD Predictors",
+    "section": "Research Questions",
+    "text": "Research Questions\n\nWhich variables are most strongly associated with cardiovascular disease risk?\nHow do behavioral and clinical characteristics influence disease likelihood?\nWhat insights can be drawn for risk stratification and public health planning?"
+  },
+  {
+    "objectID": "index.html#methodology",
+    "href": "index.html#methodology",
+    "title": "CVD Predictors",
+    "section": "Methodology",
+    "text": "Methodology\nThis analysis uses a structured approach that combines descriptive statistics, comparative analysis, and interpretation of risk predictors. Key variables are examined for patterns and relationships, with attention to how they contribute to cardiovascular disease risk in a real-world health context."
+  },
+  {
+    "objectID": "index.html#key-findings",
+    "href": "index.html#key-findings",
+    "title": "CVD Predictors",
+    "section": "Key Findings",
+    "text": "Key Findings\nThe preliminary findings suggest that cardiovascular risk is shaped by a combination of demographic, clinical, and behavioral factors. Age, blood pressure, cholesterol, and lifestyle indicators stand out as important contributors to overall risk. These findings underscore the importance of multifactor risk assessment rather than relying on any single measure."
+  },
+  {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "CVD Predictors",
+    "section": "Conclusion",
+    "text": "Conclusion\nThis project demonstrates how data analysis can be used to investigate health outcomes in a systematic and interpretable way. By presenting the results in a clear, evidence-based format, the analysis supports data-driven discussion of cardiovascular risk and prevention strategies."
+  }
+]

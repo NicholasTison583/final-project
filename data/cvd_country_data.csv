@@ -1,0 +1,201 @@
+country_name,country_code,value,measure,age,condition,sex,unit,year
+Brazil,BR,145.07721268733,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+India,IN,273.83457144459,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Kenya,KE,126.81810697553,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Nigeria,NG,264.4295688321,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Kuwait,KW,175.92155135631,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Malaysia,MY,210.60049661485002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Cameroon,CM,287.46391103842996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Cambodia,KH,264.5172688505,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Serbia,RS,414.79929570622,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Zambia,ZM,331.80059693753,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Finland,FI,160.45072109174,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Ukraine,UA,433.40300341039,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+South Africa,ZA,203.55049865809,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Ecuador,EC,148.10896125492002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Cote d'Ivoire,CI,272.07057984281,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Lebanon,LB,129.60341029672,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Turkmenistan,TM,499.32516074783996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Georgia,GE,336.42621396244,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Angola,AO,254.96384735976,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Tunisia,TN,176.05142895027,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Uganda,UG,190.78573786395,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Uzbekistan,UZ,522.86125578094,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Slovakia,SK,241.92323275919998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Costa Rica,CR,131.37395499065002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Togo,TG,280.96963691042,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Montenegro,ME,324.77216767234,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Iceland,IS,112.04685696135999,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Mali,ML,249.78779910452,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Ireland,IE,108.00606862717999,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Australia,AU,80.46907498184,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Turkey,TR,199.24063893728,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Taiwan,TW,89.9660397356,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Slovenia,SI,127.92517096596,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Djibouti,DJ,157.12502904971,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Comoros,KM,90.95010915969,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Greenland,GL,250.16376022126,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Japan,JP,77.04107162369,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Canada,CA,98.46585084997001,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+South Korea,KR,75.64271842086,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Belize,BZ,169.15878111935,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Iraq,IQ,426.11401912473997,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Paraguay,PY,224.41188522727998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bahamas,BS,256.51064120513,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Sweden,SE,110.18409948526,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Saudi Arabia,SA,326.72079739582,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Spain,ES,87.52177956064,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Benin,BJ,185.9091606738,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+France,FR,79.73211622944,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Central African Republic,CF,326.3936272856,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Samoa,WS,314.85177447231,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Chile,CL,98.23678658322001,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bangladesh,BD,370.87654500401,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bulgaria,BG,410.90829020287,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Colombia,CO,130.41998599705,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Estonia,EE,217.42365331289,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Ghana,GH,339.03471676597,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Gabon,GA,219.97203302568,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Netherlands,NL,94.27087295601001,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Sri Lanka,LK,231.81264402192,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Oman,OM,256.12394445121004,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Eritrea,ER,235.24034764272,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Chad,TD,389.89930141455,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Portugal,PT,102.22137068295,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Vanuatu,VU,410.79356410592,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Poland,PL,187.75692281313,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Norway,NO,93.39135925699,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Grenada,GD,198.83644717781,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Papua New Guinea,PG,427.22523437704996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Tajikistan,TJ,501.57837133577004,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Solomon Islands,SB,687.22959657948,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Cuba,CU,180.16566243339,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bhutan,BT,208.84191344225,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Belgium,BE,91.2761816836,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Morocco,MA,527.52934148479,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Guatemala,GT,180.95097295054,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Cyprus,CY,157.90972045013,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Afghanistan,AF,582.68740890873,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Iran,IR,211.56431773115997,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Nepal,NP,203.47498075848,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Luxembourg,LU,107.1131233938,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bahrain,BH,201.85111001491998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Somalia,SO,130.35234498943,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Malawi,MW,243.41672141222998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Kiribati,KI,211.33738183954998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Croatia,HR,212.22694777115,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Mozambique,MZ,198.67860300669,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Venezuela,VE,356.13385139774,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Hungary,HU,286.11866805791,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Peru,PE,54.16323831284,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bolivia,BO,171.2817061961,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Mauritania,MR,289.90487835061,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+North Korea,KP,390.59409862863004,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Kyrgyzstan,KG,429.08122215351,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Seychelles,SC,198.79960254434002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Botswana,BW,156.24923870242,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Azerbaijan,AZ,397.74712942005,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+United Kingdom,GB,118.94714493258,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Thailand,TH,102.97240672323,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Marshall Islands,MH,715.32731548423,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Burundi,BI,251.2632969439,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Mongolia,MN,311.63998303996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Moldova,MD,318.67641206825,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Singapore,SG,84.92171092765001,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+China,CN,203.77667002667,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Pakistan,PK,259.07095397616996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Yemen,YE,481.79833637673,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Maldives,MV,344.93534564281,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Uruguay,UY,137.73891871291002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Haiti,HT,591.847698156,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Equatorial Guinea,GQ,303.12636479911004,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Lesotho,LS,280.60145809098003,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Latvia,LV,318.70328028196997,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+New Zealand,NZ,125.03622278867,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Andorra,AD,78.51258679891,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Switzerland,CH,86.59821566778,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Romania,RO,317.43934284147,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Fiji,FJ,425.00389810127,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Lithuania,LT,293.03220125836,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Jordan,JO,215.58713220279003,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Kazakhstan,KZ,314.43766876568,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Burkina Faso,BF,158.4623193691,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Argentina,AR,159.07765619949,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Guinea,GN,313.69593113898003,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Mexico,MX,148.50437761006998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Armenia,AM,236.33235607945,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Germany,DE,139.72083995821,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Sudan,SD,570.82602068884,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Tonga,TO,355.18950375,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Guyana,GY,295.49439388467,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Qatar,QA,176.80367157467998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Rwanda,RW,251.09784047683002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Gambia,GM,236.67973198689,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Sierra Leone,SL,295.03109045291,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+United Arab Emirates,AE,215.11996971978,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Dominican Republic,DO,307.1899564394,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Philippines,PH,308.85679137459,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Austria,AT,138.50554643496,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Albania,AL,244.60039592137002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Suriname,SR,214.4425691289,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Tanzania,TZ,209.25272076559003,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Libya,LY,367.37364399779,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Greece,GR,148.67174698785,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Panama,PA,145.64751782669,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Namibia,NA,187.00679634617,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Honduras,HN,281.71317893017,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Liberia,LR,330.91886911661,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Israel,IL,73.014572925,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bermuda,BM,155.70053460920002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Italy,IT,106.42649565977,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Egypt,EG,644.25462657305,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Malta,MT,118.7150696406,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Mauritius,MU,237.89357840533,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Ethiopia,ET,219.65149587093,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Timor-Leste,TL,319.80547047673,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Puerto Rico,PR,94.86206568058999,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Nicaragua,NI,184.95649129272,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Zimbabwe,ZW,185.24839856199,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Niger,NE,321.42701616868004,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Denmark,DK,95.30144586025,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+El Salvador,SV,180.9026540436,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Myanmar (Burma),MM,471.87944542104003,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Russia,RU,384.89917086124996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Eswatini,SZ,193.03887205297,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+São Tomé & Príncipe,ST,206.10714142252,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Palestinian Territories,PS,283.07504012596996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+North Macedonia,MK,364.4128420985,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Cape Verde,CV,179.73453543096,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Congo - Kinshasa,CD,316.35956017296996,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Bosnia & Herzegovina,BA,289.89874877454,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+St. Vincent & Grenadines,VC,231.96321277551002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Trinidad & Tobago,TT,307.04606974800004,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Vietnam,VN,205.51075789414998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Antigua & Barbuda,AG,177.77026534867,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Syria,SY,478.47437550117,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Brunei,BN,156.70848840525002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Congo - Brazzaville,CG,316.53545403819,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Guinea-Bissau,GW,385.21573321167,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Czechia,CZ,197.37275584164001,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+United States,US,140.67180303057,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Jamaica,JM,181.81404377776,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Madagascar,MG,346.93127825053,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Algeria,DZ,312.86028970719997,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Senegal,SN,229.23876443679998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Dominica,DM,199.35640842551,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Belarus,BY,460.96052446171,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+St. Lucia,LC,166.810007822,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Indonesia,ID,274.11209012167,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Laos,LA,405.61342683937994,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Barbados,BB,172.23765140734,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+South Sudan,SS,333.19874717843,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+U.S. Virgin Islands,VI,198.86225368899,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Guam,GU,253.10547564782,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Northern Mariana Islands,MP,327.27386095348,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Global,GLO,212.34367587396997,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+African Region,AFR,249.52449291040998,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Region of the Americas,ROA,146.5174370271,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+South-East Asia Region,SAR,272.9776439555,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+European Region,EUR,202.44226349211002,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Eastern Mediterranean Region,EMR,344.45724671472004,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
+Western Pacific Region,WPR,181.6066732259,Deaths,Age-standardized,Cardiovascular diseases,Both,"Rate (per 100,000)",2024
